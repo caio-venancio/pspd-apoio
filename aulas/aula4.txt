@@ -1,0 +1,111 @@
+===== aula 21/08/2026, sexta-feira, quarta aula ======
+
+- perguntas sobre o conteúdo da aula:
+
+Qual é a arquitetura clássica de sistemas distribuídos?
+O que é arquitetura de software?
+O que é um componente?
+O que é uma interface?
+Componentes são software distribuídos?
+Qual é a importância de uma boa interface?
+Componentes precisam ser independentes?
+O que é um conector?
+Um conector é um serviço de comunicação?
+Um conector é um componente?
+Arquitetura em camadas é de sistemas distribuídos?
+Arquitetura orientada a serviços é de sistemas distribuídos?
+Arquitetura publicar-sobrescrever é de sistemas distribuídos?
+Arquitetura de camadas tem camadas superiores e inferiores?
+TCP/IP é implementado em arquitetura em camadas?
+Os componentes devem se comunicar nas camadas diretamente inferiores e superiores?
+O fluxo de requisição vem da camada superior?
+O fluxo de resposta vem da camada inferior?
+Camadas podem se comunicar diretamente com camadas mais inferiores?
+Cada camada provê uma interface?
+O uso de protocolos não orientados a conexão é limitado?
+Tem problema de condição de corrida em não orientados a conexão?
+Quais camadas são comuns na arquitetura em camadas?
+O que é o nível de interface de aplicação?
+Qual é o nível de dados?
+Qual é o nível de processamento?
+A camada de processamento fica entre o nível de interface e o nível de processamento?
+Qual um exemplo de interface de aplicação?
+Uma página web pode ser uma interface de aplicação?
+Qual é a entrada e saída na camada de aplicação?
+Qual é a entrada de dados no banco de dados do nível de dados para uma página web?
+Por que os dados precisam de metadados no nível de dados em um sistema de busca web?
+Precisa de gerador de consultas em sistemas de busca web?
+Precisa de um algoritmo de ordenação em sistemas web?
+O engine de busca terá só essas três camadas?
+Em qual camada fica web crawlers?
+Atualizar sites é uma tarefa difícil?
+As arquitetura inciais eram muito acopladas?
+Qual é a origem de arquitetura orientadas a serviços?
+Existem vários tipos de serviços?
+O que é a arquitetura baseada em objetos?
+O que é CORBA?
+A comunicação entre objetos é dado entre chamadas ou métodos?
+Objetos seriam independentes e modularizados?
+Um objeto de uma máquina poderia chamar métodos de outra máquina?
+Os componentes seriam objetos?
+Para que serviria os middlewares em arquitetura de objetos?
+Um cliente faz vinculação de um objeto remoto?
+A interface é utilizada através de proxy?
+O bind é entre o cliente e o proxy?
+Arquitetura baseada em objetos é muito utilizada em sistemas distribuídos?
+O que é um client stub?
+O que é um stub se servidor?
+O que é esqueleto?
+Os objetos não são distribuídos?
+Os objetos estão em máquinas diferentes?
+É fácil de fazer arquitetura baseada em objetos?
+A orientação força o programador encapsular código?
+O que é a arquitetura orientada a serviços (SOA)?
+O serviços do SOA separa serviços em componentes reutilizáveis?
+O que é arquitetura de microsserviço?
+Existe uma definição formal do quão pequeno deve ser um serviço?
+O importante é que serviços sejam independentes?
+A comunicação tem que ser assumida a ocorrer por rede em SOA?
+O que é o API gateway?
+Qual o papel do api gateway em SOA?
+O que é orquestração em SOA?
+O que é gerência de dados não-centralizados?
+O que é a descoberta de serviços?
+SOA é muito utilizado para sistemas distribuídos?
+Como exatamente adicionar ou remover recursos remotamente?
+O que é REST?
+O que são serviços restful?
+O que é SOAP?
+Por que SOAP entrou em desuso?
+Quais as 4 características obrigatórias de REST?
+O que é a identificação única do REST?
+O que é a interface uniforme do REST?
+O que são mensagens auto-descritivas do REST?
+O que é stateless do REST?
+O que é arquitetura baseada em recursos?
+O amazon simple storage service (s3) é um serviço?
+Para que serve o S3?
+O S3 funciona como RESTful?
+O que é um bucket, do S3?
+Objetos são arquicos? Buckets são diretórios?
+O S3 tem vários diretórios?
+Qual é o formato do URI do S3?
+Qual o formato da URL do S3?
+O que GET faz?
+O que PUT faz?
+O que POST faz?
+O que Delete faz?
+O nome de bucket eram únicos?
+Tem como hospedar um serviço open-source parecido a S3 localmente?
+O que é a arquitetura de publicar-sobrescrever?
+De onde sobre a arquitetura de publicar-sobrescrever?
+O que é uma publicação de mensagem?
+Só quem se inscreveu podem receber a mensagem?
+Como acontece o desacoplamento no espaço? E no tempo?
+O que é um processo acoplado na referência e no tempo?
+O que é um processo acoplado na referência e desacoplado no tempo?
+O que é um processo desacoplado na referência e no tempo?
+A coordenação direta é um serviço?
+O que é o modelo baseado nos eventos?
+O que é o modelo de dados compartilhados?
+Como são os mecanismos para reconhecer match do pub-sub?
