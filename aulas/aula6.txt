@@ -1,0 +1,80 @@
+====== aula 28/08/2026, sexta aula ========
+Quais detalhes importantes sobre comunicação em sistemas distribuídos?
+O que é o paradigma de memória compartilhada?
+O que é o paradigma de troca de mensagens?
+O MPI parece ser mais lento?
+O que é RPC?
+O que é middleware por envio de mensagens?
+Quais os princípios da comunicação?
+Qual é o padrão de comunicação entre computadores?
+O que é o modelo OSI?
+Qual é o cabeçalho do pacote de redes?
+O que um protocolo orientado a conexão faz?
+O que um protocolo não-orientado a conexão faz?
+O que é a pilha TCP/IP?
+O middleware é uma camada de aplicação?
+Sessão e presentation são middlewares?
+Serviço de email é um middleware de comunicação?
+O que é comunicação persistente?
+O que é um provedor de email?
+O padrão de email é aberto?
+O middleware do serviço de email é eficiente?
+Comunicação persistente é mais lento?
+O que é comunicação transiente?
+Como comunicação transiente funciona?
+Comunicação de rede é transiente?
+O que é uma comunicação síncrona?
+O que é uma comunicação assíncrona?
+Por quais motivos o emissor é bloqueado na comunicação síncrona?
+O que é Kiro?
+O Kiro é bom?
+Esperar o middleware é bom?
+Esperar o destinatário é bom?
+Esperar o emissor é bom?
+Esperar o middleware é lento?
+Por que precisa de um bloqueio na comunicação na síncrona?
+Persistente com chamadas síncronas é bom para envio de mensagens?
+RPC é comunicação transiente e síncronas?
+Como Remote Procedure Call funciona?
+As chamadas RPC é como se fosse local?
+Como é o stack pointer de um program tradicional?
+Por que precisa de stub para obter transparência?
+Se o RPC parece local, tem problemas com tratamento de erros de comunicação?
+Qual a diferença do stub de cliente e o stub de servidor?
+O que o stub de cliente faz?
+Como deve ser a mensagem entre stub de cliente e stub de servidor?
+A passagem de valor e referência no RPC é problemático?
+O processadores intel é little endian e arm é big endian?
+Arquiteturas diferentes importam?
+Empacotar somente em binário é suficiente?
+Tem que ter tipo de dados nas mensagens RPC?
+O que é Marshalling (empacotamento)?
+O que é Unmarshalling?
+O que é CORBA?
+Como CORBA faz para representar os dados?
+Como o Java faz para representar os dados?
+O que o XML e JSON servem para mensagens RPC?
+Descartar marshalling para alta velocidade é viável?
+E passagem por referência em RPC funcionam?
+O que é watch dog?
+Performance cai com encapsulamento automático?
+O que são compiladores IDL?
+O que o compiladores IDL funciona?
+Como a transparência funciona em compiladores IDL?
+O que é one-way RPC?
+O RPC é um protocolo requisição-resposta?
+Stevens Unix Networking Vol. Ii é sobre o que?
+O que é o man rpc(8)?
+O FreeBSD rpcgen programming guide é útil?
+O que é o gRPC?
+Qual é a vantagem do envio de mensagens sobre RPC?
+É mais fácil de tratar envio de mensagens personalizadas por envio de mensagens por RPC?
+Sockets é comunicação transientes dobte mensagens?
+O que é MPI?
+O que são sockets?
+O que é o berkeley unix?
+O que é um padrão posix?
+Quais as diretivas do sockets?
+Sockets faz marshalling?
+htons o que é host to...?
+Como fazer uma requisição http em c?

@@ -1,0 +1,55 @@
+========= aula 26/08/2026, quinta aula =========
+O que é um broker?
+Por que broker é útil?
+Qual é uma das principais funcionalidades do middleware?
+A arquitetura cliente e servidor é um sistema organizado em camadas?
+O servidor implementa um serviço?
+Um servidor é qualquer processo passivo que aguarda requisição?
+Exemplos de servidores?
+Um cliente pode ser fazer coisas de servidores?
+Clientes são usuários?
+Qual a diferença da divisão lógica pela divisão física?
+O que são thin clients?
+O que são fat clients?
+Qual é o problema com clientes gordos?
+Quais as 5 configurações de thin e fat clients?
+Para quê arquitetura em múltiplas camadas?
+O que são arquitetura em sistemas distribuídos simétricos?
+O que é escalabilidade horizontal?
+Qual arquitetura mais suporta distribuição horizontal?
+O que é uma rede de sobreposição?
+O que são redes estruturadas?
+O que são redes não-estruturadas?
+O que é uma rede de tabela hash distribuídas?
+Como DHT funciona?
+O que é o Chord?
+Como funciona Chord?
+Como funciona os algoritmos de busca de nós?
+Como flooding funciona?
+Como random walks funcionam?
+Contador TTL são importantes?
+O que é um CDN?
+Indexar é comum?
+O que são superpares?
+E se um superpar cair?
+O que é o bittorrent?
+O que é um rastreador?
+Um arquivo torrent é o arquivo baixado?
+O que é computação em nuvem?
+O que é a vida?
+Qual a definição de computação em nuvem pelo NIST?
+Quais as características essenciais de computação na nuvem?
+O que é serviço automático de acordo com a demanda?
+... (esqueci uma)
+O que é pooling de recursos?
+A AWS não conta onde fica os servidores?
+O que é elasticidade rápida?
+O que é serviço mensurado?
+O que é IaaS?
+O que é PaaS?
+O que é SaaS?
+O que é o AWS EC2?
+O que é o Google App Engine?
+Exemplo de Saas? Paas? Iaas?
+O que é computação em borda?
+O que é computação em névoa?

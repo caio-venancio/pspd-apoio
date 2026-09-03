@@ -1,0 +1,49 @@
+====== aula 02/09/2026, sétima aula ======
+O que é o AWS Elastic Fabric Adapter?
+O que é o MBI?
+O que é EFA?
+O que é comunicação por envio de chamadas?
+O que é a comunicação persistente por mensagem?
+Qual é o modelo de mensagens na comunicação persistente?
+O que são message-oriented middleware (MOM)?
+Comunicação persistente e assíncrona pode demorar minutos?
+Os comunicadores precisam estar ativos em comunicação persistente?
+O middleware fornece armazenamento médio prazo para comunicação persistente?
+O que é NTTData?
+O que é o modelo de fila de mensagens?
+Quais operações típicas para colocar na fila de mensagem?
+O que é o PUT, GET, POLL e NOTIFY em uma fila de mensagens?
+O que é um gerente de fila?
+É preciso ter mais de um gerente de fila?
+O que é o message broker?
+Por que com message broker diminui O(N²) para O(N) na comunicação?
+O message broker transforma menssagens?
+O que é Enterprise Application Integration?
+Em EAI acontece pub-sub?
+O Broker pode ajudar em pub-sub?
+Brokers ajudam na integração?
+Os fabricantes de brokers privados faziam o padrão ser difícil de implementar?
+O Advanced Message Queuing Protocol é um padrão aberto?
+O receptor trabalha em créditos?
+A entrega de mensagens tem estados em AMQP?
+O que é o RabbitMQ?
+O que é o Celery?
+O que é Redis?
+Como é o uso de multicast em sistemas distribuídos?
+Multicast é proibido por provedores de internet?
+O que é overlay network para sistemas com comunicação multicast?
+O que é switch-tree?
+O que é multicast baseado em flooding?
+O que são protocolos de disseminação de informação?
+Tem como retransmitir sendo inteligente com probabilidade?
+O que são hipercubos?
+O que é disseminação baseada em fofoca?
+O que é comunicação epidêmica?
+O que é um nó infectado?
+O que é propagação por antientropia?
+O nó infectado pode fazer push, pull e push-pull?
+O melhor é a estratégia de push ou pull?
+Como remover a informação por infecção?
+O que é certificados de óbito em infecção?
+Por que colocar timestamp em certificados?
+Por que pelo menos um nó tem que manter o certificado para sempre?
